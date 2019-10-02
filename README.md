@@ -1,0 +1,2 @@
+# PhpSqliteAdmin
+PHP SQlite Admin
