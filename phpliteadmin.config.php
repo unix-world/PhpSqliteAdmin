@@ -53,7 +53,7 @@ $maxSavedQueries = 10;
 //a list of custom functions that can be applied to columns in the databases
 //make sure to define every function below if it is not a core PHP function
 $custom_functions = array(
-	'md5', 'sha1', 'time', 'strtotime',
+	'md5', 'sha1', 'time', 'strtotime', 'base64_decode', 'base64_encode',
 	// add the names of your custom functions to this array
 	/* 'leet_text', */
 );

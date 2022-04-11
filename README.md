@@ -1,2 +1,0 @@
-# PhpSqliteAdmin
-PHP SQlite Admin
